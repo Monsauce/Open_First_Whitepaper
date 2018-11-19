@@ -73,3 +73,5 @@ Open standards and OSS are only slowly gaining traction in the GC (GC), particul
 Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of OSS supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
 If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
+
+[Table of Contents](../README.md#table-of-contents) | [Next Page: Open Standards ->](2_Open_Standards.md)
